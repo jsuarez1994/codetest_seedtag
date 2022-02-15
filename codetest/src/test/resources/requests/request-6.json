@@ -1,0 +1,28 @@
+{
+   "protocols":[
+      "avoid-crossfire"
+   ],
+   "scan":[
+      {
+         "enemies":{
+            "number":10,
+            "type":"soldier"
+         },
+         "allies":3,
+         "coordinates":{
+            "y":35,
+            "x":5
+         }
+      },
+      {
+         "enemies":{
+            "number":20,
+            "type":"soldier"
+         },
+         "coordinates":{
+            "y":5,
+            "x":35
+         }
+      }
+   ]
+}

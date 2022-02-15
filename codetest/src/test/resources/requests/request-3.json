@@ -1,0 +1,27 @@
+{
+   "protocols":[
+      "closest-enemies"
+   ],
+   "scan":[
+      {
+         "enemies":{
+            "number":10,
+            "type":"soldier"
+         },
+         "coordinates":{
+            "y":35,
+            "x":5
+         }
+      },
+      {
+         "enemies":{
+            "number":20,
+            "type":"soldier"
+         },
+         "coordinates":{
+            "y":30,
+            "x":10
+         }
+      }
+   ]
+}
